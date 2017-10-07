@@ -1,0 +1,2 @@
+open data web-site - https://www.minfin.ru/opendata/
+pasport example - https://www.minfin.ru/opendata/7710168360-Subordinate/

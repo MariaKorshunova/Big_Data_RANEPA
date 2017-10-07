@@ -1,0 +1,65 @@
+№	Название поля паспорта	Значение поля паспорта
+1	
+Идентификационный номер
+7710168360-Subordinate
+2	
+Наименование набора открытых данных
+Организации, находящиеся в ведении Минфина России
+3	
+Описание набора открытых данных
+Перечень и функции организаций, находящихся в ведении Минфина России
+4	
+Владелец набора открытых данных
+Министерство финансов Российской Федерации
+Административный департамент
+5	Ответственное лицо	Терещенко Татьяна Михайловна
+6	
+Телефон ответственного лица
++7 (495) 913-45-20
+7	
+Адрес электронной почты ответственного лица
+Tatyana.Tereshchenko@minfin.ru
+8	
+Гиперссылка (URL) на открытые данные
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20170406-structure-20141203.csv
+  посмотреть
+9	
+Формат набора открытых данных
+CSV
+10	
+Описание структуры набора открытых данных
+http://minfin.ru/OpenData/7710168360-Subordinate/structure-20141203.csv
+11	
+Дата первой публикации набора открытых данных
+2013-06-06
+12	
+Дата последнего внесения изменений
+2017-04-06
+13	
+Содержание последнего изменения
+Актуализация информации
+14	
+Дата актуальности набора данных
+Информация обновляется по мере внесения изменений
+15	
+Ключевые слова, соответствующие содержанию набора данных
+металл, Госфонд, облигации, режим, фонд, сертификация, отдых, институт
+16	
+Гиперссылка (URL) на  версии открытых данных
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20161019-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20160721-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20160705-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20151229-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20151217-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20151111-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-20141203-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-06-structure-20141203.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-05-structure-00.xml
+http://minfin.ru/OpenData/7710168360-Subordinate/data-04-structure-00.xml
+http://minfin.ru/OpenData/7710168360-Subordinate/data-03-structure-00.csv
+http://minfin.ru/OpenData/7710168360-Subordinate/data-02-structure-00.xml
+http://minfin.ru/OpenData/7710168360-Subordinate/data-01-structure-00.xml
+17	
+Гиперссылка (URL) на версии структуры открытых  данных
+null
+18	Версия методических рекомендаций	3.0
