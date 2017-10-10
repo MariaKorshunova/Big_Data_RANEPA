@@ -1,0 +1,44 @@
+﻿Пример паспорта UK:
+Ссылка - https://data.gov.uk/dataset/swlstg-finance-expenditure2
+
+Added to data.gov.uk 	13/07/2016
+Theme 			Government Spending
+Service Level 		SLA Agreed
+Update frequency 	monthly
+Themes (secondary) 	No value
+Mandate 		No value
+Temporal coverage 	No value
+Geographic coverage 	No value
+Schema/Vocabulary 	No value
+Code list 		No value
+
+Пример паспорта USA:
+Ссылка - https://catalog.data.gov/dataset/american-factfinder-ii
+
+Resource Type 			Dataset
+Metadata Created Date 		May 20, 2015
+Metadata Updated Date 		October 9, 2017
+Publisher 			US Census Bureau, Department of Commerce
+Unique Identifier 		DOC-5156
+Maintainer 			Jeffrey D. Sisson
+Maintainer Email 		jeffrey.d.sisson@census.gov
+Public Access Level 		public
+Data Update Frequency 		R/PT1S
+Bureau Code 			006:07
+Metadata Context 		https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld
+Schema Version 			https://project-open-data.cio.gov/v1.1/schema
+Catalog Describedby 		https://project-open-data.cio.gov/v1.1/schema/catalog.json
+Data Quality 			True
+Data Dictionary 		http://factfinder2.census.gov/help/en/american_factfinder_help.htm#glossary/glossary.htm
+Harvest Object Id 		9c839a19-e596-498a-b095-74cfd962154b
+Harvest Source Id 		0836a94a-b3c8-4190-a145-bddc06458b2c
+Harvest Source Title 		Commerce Non Spatial Data.json Harvest Source
+Data First Published 		2014-09-16
+License 			http://www.usa.gov/publicdomain/label/1.0/
+Data Last Modified 		2014-09-16
+Program Code 			006:008
+Related Documents 		http://factfinder2.census.gov/faces/help/jsf/pages/metadata.xhtml?lang=en
+Source Datajson Identifier 	True
+Source Hash 			d488f28352351e39a2b3329d0c66338de7a5b4b4
+Source Schema Version 		1.1
+Spatial 			United States, Puerto Rico, U.S. Virgin Islands, Commonwealth of the Northern Mariana Islands, 						Guam, American Samoa

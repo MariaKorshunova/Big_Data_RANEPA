@@ -1,0 +1,8 @@
+﻿Open data web-site - https://data.gov.uk/
+Search by finance (у них нет в качестве отдельной категории) - https://data.gov.uk/data/search?q=finance&unpublished=false
+Некоторые датасеты имеют "неудобный" формат (ppt или pdf презентации), пример - https://data.gov.uk/dataset/private-finance-initiative-pfi-data
+Другие датасеты перенаправляют на сторонние ресурсы, пример - https://data.gov.uk/dataset/private_investment_in_the_rail_industry
+
+В качестве предложения, можно рассмотреть открытые данные США:
+Open data web-site - https://catalog.data.gov/dataset?groups=finance3432#topic=finance_navigation
+У них наличиствуют те же проблемы с форматами и ссылками, как и у UK, но в отличие от последних прекрасные метаданные по каждому датасету.
